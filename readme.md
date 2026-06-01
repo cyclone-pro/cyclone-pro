@@ -53,12 +53,13 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 </a>
 <br /><br />
 <a href="https://github.com/cyclone-pro">
-  <img src="https://streak-stats.demolab.com?user=cyclone-pro&theme=tokyonight&hide_border=true&dates=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cyclone-pro&theme=tokyonight&hide_border=true&sections=current,longest" alt="GitHub Streak" />
 </a>
 <br /><br />
 <a href="https://github.com/cyclone-pro">
   <img src="https://github-profile-trophy.vercel.app/?username=cyclone-pro&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </a>
+
 </div> -->
 
 <div align="center">
