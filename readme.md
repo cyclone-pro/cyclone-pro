@@ -51,19 +51,14 @@ My work spans full-stack applications, automation systems, AI integrations, and 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyclone-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
-
 <br /><br />
-
 <a href="https://github.com/cyclone-pro">
-  <img src="https://streak-stats.demolab.com?user=cyclone-pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cyclone-pro&theme=tokyonight&hide_border=true&dates=false" alt="GitHub Streak" />
 </a>
-
 <br /><br />
-
 <a href="https://github.com/cyclone-pro">
   <img src="https://github-profile-trophy.vercel.app/?username=cyclone-pro&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </a>
-
 </div> -->
 
 <div align="center">
