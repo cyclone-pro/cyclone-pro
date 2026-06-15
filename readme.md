@@ -237,25 +237,4 @@ AWS ECS backend deployment project with CI/CD, MongoDB Atlas persistence, and S3
 
 <br />
 
----
-
-<div align="center">
-<h2>< Contact ></h2>
-</div>
-
-<div align="center">
-
-I'm always open to discussing new products, freelance opportunities, and AI-focused collaborations.
-
-</div>
-
-<br />
-
-- Email: [jangjuncheng2020@gmail.com](mailto:jangjuncheng2020@gmail.com)
-- GitHub: [github.com/cyclone-pro](https://github.com/cyclone-pro)
-- Availability: Monday to Friday, 9AM - 6PM (CST)
-- Response time: Within 24 hours
-
-<br />
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=a0aec0&fontAlignY=65)
