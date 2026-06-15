@@ -12,10 +12,6 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="72%">
-
 <h2>< About Me ></h2>
 
 ```ts
@@ -36,15 +32,6 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 - Focused on full-stack engineering, AI integration, and high-performance product delivery
 - Open to freelance work and collaborations
 
-</td>
-<td valign="top" align="center" width="28%">
-
-<img src="https://github.com/cyclone-pro.png?size=220" alt="Cyclone avatar" width="220" style="border-radius: 18px;" />
-
-</td>
-</tr>
-</table>
-
 <br />
 
 ---
@@ -55,7 +42,6 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyclone-pro&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyclone-pro&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyclone-pro&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyclone-pro&theme=nord_bright)
