@@ -1,12 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cyclone&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Creative%20Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=60&descSize=18&descColor=a0aec0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cyclone&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=60&descSize=18&descColor=a0aec0" />
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cyclone-pro&label=Profile%20Views&color=38bdf8&style=flat-square)](https://github.com/cyclone-pro)
 [![GitHub followers](https://img.shields.io/github/followers/cyclone-pro?label=Follow&style=flat-square&color=38bdf8)](https://github.com/cyclone-pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter])
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marshalljohnsonp@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jangjuncheng2020@gmail.com)
 
 </div>
 
@@ -14,16 +12,18 @@
 
 ---
 
-<div align="center">
-<h2>〈 About Me 〉</h2>
-</div>
+<table>
+<tr>
+<td valign="top" width="72%">
+
+<h2>< About Me ></h2>
 
 ```ts
 const dev = {
   nickname: "Cyclone",
   role: "Full Stack & AI Software Engineer",
-  focus: ["AI / ML", "Software Engineering", "Automation", "Prompt Engineering"],
-  currentWork: "Building AI-powered tools and high-performance digital products",
+  focus: ["AI / ML", "AI Integration", "Full-Stack Development", "Automation"],
+  currentWork: "Building intelligent full-stack products and AI-powered solutions",
   availability: "Open to freelance work and collaborations",
 };
 ```
@@ -32,35 +32,26 @@ I am a software engineer with a strong foundation in AI, machine learning, and m
 
 My work spans full-stack applications, automation systems, AI integrations, and interactive front-end experiences. I am especially interested in practical LLM systems, production-ready ML workflows, and scalable cloud-based solutions.
 
-- Currently working as an AI/ML Engineer delivering production-focused solutions
-- Building experience in LLM systems, agent workflows, and cloud architecture
-- Focused on clean implementation, performance optimization, and maintainable systems
-- Open to freelance opportunities, collaborations, and product-focused engineering work
+- Building AI-powered applications and business-focused automation systems
+- Focused on full-stack engineering, AI integration, and high-performance product delivery
+- Open to freelance work and collaborations
+
+</td>
+<td valign="top" align="center" width="28%">
+
+<img src="https://github.com/cyclone-pro.png?size=220" alt="Cyclone avatar" width="220" style="border-radius: 18px;" />
+
+</td>
+</tr>
+</table>
 
 <br />
 
 ---
 
 <div align="center">
-<h2>〈 GitHub Stats 〉</h2>
+<h2>< GitHub Stats ></h2>
 </div>
-
-<!-- <div align="center">
-
-<a href="https://github.com/cyclone-pro">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyclone-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-<br /><br />
-<a href="https://github.com/cyclone-pro">
-  <img src="https://streak-stats.demolab.com?user=cyclone-pro&theme=tokyonight&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
-</a>
-<br /><br />
-<a href="https://github.com/cyclone-pro">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyclone-pro&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</a>
-
-</div> -->
 
 <div align="center">
 
@@ -68,88 +59,16 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyclone-pro&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyclone-pro&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyclone-pro&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyclone-pro&theme=nord_bright&utcOffset=8)
-
-<br />
-
-<!-- <a href="https://github.com/cyclone-pro">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyclone-pro&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</a> -->
 
 </div>
-
-<!-- <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cyclone-pro/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cyclone-pro/assets/blob/main/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://github.com/cyclone-pro/assets/blob/main/github-contribution-grid-snake.svg" />
-</picture>
-
-</div> -->
 
 <br />
 
 ---
 
 <div align="center">
-<h2>〈 Skills Overview 〉</h2>
+<h2>< Skills Overview ></h2>
 </div>
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Frontend**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-E10098?style=for-the-badge&logo=framer&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Backend and APIs**  
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**AI / ML**  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logoColor=black)
-
-**Cloud and DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-<td valign="top" width="40%">
 
 ### Core Strengths
 
@@ -161,48 +80,68 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 | Python | Pro |
 | Full-Stack Web Development | Pro |
 | JavaScript / TypeScript | Pro |
-| SQL / NoSQL | Pro |
-| Web Development | Pro |
+| SQL / NoSQL | Advanced |
 | LLM Workflows and Automation | Advanced |
 | Computer Vision | Advanced |
-| Data Analytics | Advanced |
 | Cloud (AWS / GCP) | Advanced |
-| Automation | Advanced |
-| Data Visualization | Advanced |
+| Data Analytics | Advanced |
 | C# | Advanced |
 
-</td>
-</tr>
-</table>
+### Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend and APIs**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logoColor=white)
+
+**AI / ML**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Cloud and DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br />
 
 ---
 
 <div align="center">
-<h2>〈 Experience 〉</h2>
+<h2>< Experience ></h2>
 </div>
 
 | Period | Role | Company | Location |
 | :--- | :--- | :--- | :--- |
-| Mar 2025 - Present | AI/ML Engineer | Self-Employed | Remote, USA |
-| Jul 2022 - Jan 2026 | Prompt Engineer | Outlier.ai | Remote, USA |
-| Jun 2020 - Dec 2022 | Freelance Software Developer | Upwork | Remote, USA |
-| Sep 2019 - May 2020 | Volunteer Web Developer | Non-Profit Organization | Remote, Hong Kong |
-| Jun 2018 - Aug 2019 | Intern Software Engineer | Tech Startup | Hybrid, Hong Kong |
+| Nov 2024 - Current | AI Engineer | Freelancer | Remote |
+| Jun 2020 - Nov 2024 | Senior Full Stack Developer | Synergy Labs | Singapore / Remote |
+| Jul 2016 - May 2020 | Volunteer Web Developer | i-HiddenTalent | Hong Kong |
+| Jun 2015 - Jun 2016 | Intern Software Engineer | CentLing Technologies | Qingdao, China |
 
-Over 5 years of experience building, shipping, and improving software across web, AI, and automation workflows.
+Over 10 years of experience across full-stack development, AI integration, automation, and product-focused software delivery.
 
 <br />
 
 ---
 
 <div align="center">
-<h2>〈 Education 〉</h2>
+<h2>< Education ></h2>
 </div>
 
 **Bachelor of Computer Science**  
-City University of Hong Kong | 2016 - 2020
+City University of Hong Kong
 
 - Graduated with honors
 - Completed a thesis on AI-driven web applications
@@ -213,62 +152,85 @@ City University of Hong Kong | 2016 - 2020
 ---
 
 <div align="center">
-<h2>〈 Selected Projects 〉</h2>
+<h2>< Selected Projects ></h2>
 </div>
+
+### [Patrick Adair Designs - Artisan Ecommerce](https://patrickadairdesigns.com/)
+Custom Shopify store for a handmade jewelry brand with product personalization tools, a custom engraving interface, and mobile-first shopping optimization.
+
+**Stack:** `Custom Theme` `Liquid` `JavaScript` `Canvas API`
+
+### [DreamCrust - Custom Bakery Platform](https://dreamcrust.com/)
+Specialized Shopify store for a bakery with pre-order flows, local delivery scheduling, and subscription management for recurring orders.
+
+**Stack:** `Shopify Plus` `Custom Apps` `Delivery API` `Subscriptions`
+
+### [Clove & Hallow - Custom Theme Development](https://cloveandhallow.com/)
+Custom Shopify theme for a clean beauty brand with advanced product filtering, subscriptions, AR try-on, and strong storefront performance.
+
+**Stack:** `Custom Theme` `Shopify Plus` `React Components` `WebGL`
+
+### [ZIIP Beauty - Headless Commerce Solution](https://ziipbeauty.com/)
+Headless Shopify implementation with a custom React frontend, third-party service integrations, custom checkout, and analytics tracking.
+
+**Stack:** `Shopify Storefront API` `React` `Next.js` `GraphQL`
+
+### [TrashLion SaaS Landing Page](https://www.trashlion.com/)
+Responsive, conversion-focused landing page built for a SaaS product with modern UI, clear messaging, and production-ready delivery. [Repository](https://github.com/cyclone-pro/trash-lion-app)
+
+**Stack:** `Next.js` `TailwindCSS` `React` `Resend`
 
 ### [Object Detection System](https://github.com/cyclone-pro/Shark_Detection)
 AI-powered real-time marine object detection from drone footage using computer vision and YOLO-based models.
 
 **Stack:** `Python` `TensorFlow` `OpenCV` `Drone SDK` `YOLO26`
 
-- Real-time object detection and tracking
-- High-accuracy computer vision pipeline
-- Drone integration for live capture workflows
-- Monitoring interface for operational visibility
+<br />
 
-### [Photo Protection System](https://github.com/cyclone-pro/Photoshield_2026)
-An AI-based system for protecting Instagram photos from unauthorized use through image recognition and watermarking.
+---
 
-**Stack:** `Python` `TensorFlow` `OpenCV` `Instagram API`
+<div align="center">
+<h2>< GitHub Repositories ></h2>
+</div>
 
-- Detection of unauthorized image use
-- Watermark-based content protection
-- Instagram-related workflow integration
-- Dashboard for managing protected assets
+### [StandupBot](https://github.com/cyclone-pro/StandupBot)
+Developer productivity app that turns real work into clean daily standup drafts by grouping activity from tools like GitHub and Slack.
 
-### [TrashLion SaaS Landing Page](https://www.trashlion.com/)
-Responsive, conversion-focused landing page built for a SaaS product. [Repository](https://github.com/cyclone-pro/trash-lion-app)
+**Stack:** `TypeScript`
 
-**Stack:** `Next.js` `TailwindCSS` `React` `Resend`
+### [shopify-ai-extension](https://github.com/cyclone-pro/shopify-ai-extension)
+Shopify product editor extension that uses AI to generate product titles, descriptions, tags, and metadata from an image.
 
-- Responsive design across devices
-- Conversion-oriented layout and calls to action
-- Email integration with Resend
-- Clean, modern UI focused on clarity and performance
+**Stack:** `TypeScript`
 
-### [GitHub Scraping Tool](https://github.com/cyclone-pro/Github_Scraper_2026)
-Real-time GitHub data scraper with interactive dashboards for analysis and reporting.
+### [aurasearch-Shopify](https://github.com/cyclone-pro/aurasearch-Shopify)
+AI-powered Shopify search experience using embeddings and vector similarity for intent-based product discovery.
 
-**Stack:** `Python` `CustomTkinter` `GitHub API`
+**Stack:** `TypeScript`
 
-- Real-time GitHub data collection
-- Interactive dashboards for insights
-- Desktop UI built with CustomTkinter
-- API-based reporting workflow
+### [ai-release-notes-generator](https://github.com/cyclone-pro/ai-release-notes-generator)
+Event-driven Spring Boot backend that generates release notes from GitHub webhooks.
+
+**Stack:** `Java` `Spring Boot`
+
+### [Fastapi-ECS-Backend](https://github.com/cyclone-pro/Fastapi-ECS-Backend)
+AWS ECS backend deployment project with CI/CD, MongoDB Atlas persistence, and S3 file storage integration.
+
+**Stack:** `FastAPI` `AWS ECS` `GitHub Actions` `MongoDB Atlas` `S3`
 
 <br />
 
 ---
 
 <div align="center">
-<h2>〈 By the Numbers 〉</h2>
+<h2>< By the Numbers ></h2>
 </div>
 
 <div align="center">
 
 | Projects Completed | Happy Clients | Years Experience | Client Satisfaction |
 | :---: | :---: | :---: | :---: |
-| **50+** | **30+** | **5+** | **100%** |
+| **50+** | **30+** | **10+** | **100%** |
 
 </div>
 
@@ -277,7 +239,7 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 ---
 
 <div align="center">
-<h2>〈 Services 〉</h2>
+<h2>< Services ></h2>
 </div>
 
 | Service | Description |
@@ -292,22 +254,19 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 ---
 
 <div align="center">
-<h2>〈 Contact 〉</h2>
+<h2>< Contact ></h2>
 </div>
 
 <div align="center">
 
-I am always open to discussing new projects, freelance opportunities, and collaborations.
+I'm always open to discussing new products, freelance opportunities, and AI-focused collaborations.
 
 </div>
 
 <br />
 
-- Email: [marshalljohnsonp@gmail.com](mailto:marshalljohnsonp@gmail.com)
-- LinkedIn: [linkedin.com/in/[your-linkedin]](https://linkedin.com/in/[your-linkedin])
+- Email: [jangjuncheng2020@gmail.com](mailto:jangjuncheng2020@gmail.com)
 - GitHub: [github.com/cyclone-pro](https://github.com/cyclone-pro)
-- Twitter: [twitter.com/[your-twitter]](https://twitter.com/[your-twitter])
-- Location: [Your Location]
 - Availability: Monday to Friday, 9AM - 6PM (CST)
 - Response time: Within 24 hours
 
