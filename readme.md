@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cyclone&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=60&descSize=18&descColor=a0aec0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Cyclone&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20%26%20AI%20Software%20Engineer&amp;descAlignY=60&amp;descSize=18&amp;descColor=a0aec0" />
 
 <div align="center">
 
@@ -258,4 +258,4 @@ I'm always open to discussing new products, freelance opportunities, and AI-focu
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=a0aec0&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer&amp;text=Let%27s%20build%20something%20great&amp;fontSize=20&amp;fontColor=a0aec0&amp;fontAlignY=65" />
